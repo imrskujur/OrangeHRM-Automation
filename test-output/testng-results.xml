@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-21T14:26:37 IST" name="Default suite" finished-at="2025-04-21T14:27:08 IST" duration-ms="30997">
+    <groups>
+    </groups>
+    <test started-at="2025-04-21T14:26:37 IST" name="Default test" finished-at="2025-04-21T14:27:08 IST" duration-ms="30997">
+      <class name="com.TestNGDemos.OHRMLogin">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.TestNGDemos.OHRMLogin@c8c12ac]" started-at="2025-04-21T14:26:37 IST" name="beforeTest" finished-at="2025-04-21T14:26:43 IST" duration-ms="6562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="loginToOHROM(java.lang.String,java.lang.String)[pri:0, instance:com.TestNGDemos.OHRMLogin@c8c12ac]" started-at="2025-04-21T14:26:43 IST" name="loginToOHROM" data-provider="getLoginData" finished-at="2025-04-21T14:26:49 IST" duration-ms="5553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOHROM -->
+        <test-method signature="loginToOHROM(java.lang.String,java.lang.String)[pri:0, instance:com.TestNGDemos.OHRMLogin@c8c12ac]" started-at="2025-04-21T14:26:49 IST" name="loginToOHROM" data-provider="getLoginData" finished-at="2025-04-21T14:26:54 IST" duration-ms="4815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passwrd1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOHROM -->
+        <test-method signature="loginToOHROM(java.lang.String,java.lang.String)[pri:0, instance:com.TestNGDemos.OHRMLogin@c8c12ac]" started-at="2025-04-21T14:26:54 IST" name="loginToOHROM" data-provider="getLoginData" finished-at="2025-04-21T14:26:58 IST" duration-ms="4481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passwrd2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOHROM -->
+        <test-method signature="loginToOHROM(java.lang.String,java.lang.String)[pri:0, instance:com.TestNGDemos.OHRMLogin@c8c12ac]" started-at="2025-04-21T14:26:58 IST" name="loginToOHROM" data-provider="getLoginData" finished-at="2025-04-21T14:27:03 IST" duration-ms="4944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOHROM -->
+        <test-method signature="loginToOHROM(java.lang.String,java.lang.String)[pri:0, instance:com.TestNGDemos.OHRMLogin@c8c12ac]" started-at="2025-04-21T14:27:03 IST" name="loginToOHROM" data-provider="getLoginData" finished-at="2025-04-21T14:27:07 IST" duration-ms="4033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passwrd3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOHROM -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.TestNGDemos.OHRMLogin@c8c12ac]" started-at="2025-04-21T14:27:07 IST" name="afterTest" finished-at="2025-04-21T14:27:08 IST" duration-ms="562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.TestNGDemos.OHRMLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
